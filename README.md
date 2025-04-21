@@ -1,2 +1,2 @@
 # OrbisProUpdate
-Updater used for updating OrbisPro.
+Simple Updater for OrbisPro
